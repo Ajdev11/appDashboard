@@ -1,0 +1,39 @@
+
+    #hed{
+        text-align: center;
+        color: darkblue;
+        font-size: medium;
+        padding-top: 10px;
+      }
+      h2{
+        text-align: center;
+        font-size: medium;
+      }
+      #logo{
+        width: 60%;
+      }
+      
+      #about{
+        font-size: small;
+      }
+      #reg, #logi{
+        text-decoration: none;
+        background-color: darkgreen;
+        color: white;
+        border: solid;
+        border-radius: 5px;
+        height: 45px;
+      }
+      input{
+        width: 80%;
+      }
+      .ipt{
+        color: coral;
+        font-weight: bold;
+        font-size: 14px;
+        margin-bottom: 0px;
+      }
+      #contdiv{
+        display: none;
+      }
+      
